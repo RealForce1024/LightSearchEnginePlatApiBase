@@ -10,13 +10,13 @@ import org.junit.Test;
 public class LuceneDemoTest {
     @Test
     public void createIndex(){
-        String indexPath = "F:\\github-fqc\\LightSearchEnginePlatApiBase_ToLearn\\data\\index";
+        String indexPath = "F:\\github-fqc\\LightSearchEnginePlatApiBase\\data\\index";
         IndexDemo.createIndex(indexPath);
     }
 
     @Test
     public void searchIndex(){
-        String indexPath = "F:\\github-fqc\\LightSearchEnginePlatApiBase_ToLearn\\data\\index";
+        String indexPath = "F:\\github-fqc\\LightSearchEnginePlatApiBase\\data\\index";
         SearchDemo.searchIndex(indexPath);
     }
 }
