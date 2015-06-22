@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="chardet-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/chardet-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cpdetector_1.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmllexer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/htmlparser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/IKAnalyzer2012FF_u1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-analyzers-common-4.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lucene-core-4.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
