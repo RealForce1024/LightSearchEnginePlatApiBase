@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lukeall-4.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lukeall-4.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
